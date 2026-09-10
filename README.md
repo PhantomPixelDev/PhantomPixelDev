@@ -4,7 +4,7 @@
 
 I build software focused on **developer tooling, infrastructure, automation, and desktop applications**.
 
-Currently exploring the intersection of **Python, C++, Rust, AI tooling, networking, and modern developer workflows**.
+Currently exploring the intersection of **Python, Go, TypeScript, C++, Rust, AI tooling, networking, and modern developer workflows**.
 
 ---
 
@@ -29,7 +29,7 @@ Cross-platform monitoring software for **Proxmox VE**, focused on a clean deskto
 
 An **MCP server for AI agents** designed to provide more efficient web research, better extraction, and less unnecessary context.
 
-**Python · MCP · Web · AI Tooling**
+**TypeScript · MCP · Web · AI Tooling**
 
 [View repository →](https://github.com/PhantomPixelDev/BetterWebSearch-MCP)
 
@@ -44,13 +44,18 @@ An **MCP server for AI agents** designed to provide more efficient web research,
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-111827?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-111827?style=flat-square&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=white)
 
-### Development
+### Frameworks & Tools
 
+![Hugo](https://img.shields.io/badge/Hugo-111827?style=flat-square&logo=hugo&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-111827?style=flat-square&logo=vuedotjs&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-111827?style=flat-square&logo=qt&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-111827?style=flat-square&logo=opengl&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-111827?style=flat-square&logo=cmake&logoColor=white)
@@ -63,15 +68,6 @@ An **MCP server for AI agents** designed to provide more efficient web research,
 ![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-111827?style=flat-square&logo=podman&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-111827?style=flat-square&logo=proxmox&logoColor=white)
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PhantomPixelDev&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomPixelDev&layout=compact&hide_border=true&theme=transparent" />
-</p>
 
 ---
 
@@ -99,14 +95,6 @@ Open Source            ███████████████████
 * CI/CD and automated release pipelines
 * GPU-accelerated applications
 * Developer productivity tooling
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhantomPixelDev&hide_border=true&bg_color=00000000&area=true" width="95%" />
-</p>
 
 ---
 
