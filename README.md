@@ -12,10 +12,19 @@ Developer tooling, infrastructure and desktop apps. Oberhausen, DE.
 - **[modulo-cms](https://github.com/PhantomPixelDev/modulo-cms)** — modular CMS with custom content types, themes and permissions · `Laravel 12` `React 19` `PHP`
 - **[gox_cms](https://github.com/PhantomPixelDev/gox_cms)** — fast CMS with minimal JavaScript · `Go` `Fiber` `HTMX` `Redis`
 
+### Live on ppxl.dev
+
+One VPS, Caddy with automatic HTTPS, one Docker Compose stack per app — no public ports except 80/443.
+
+- **[ppxl.dev](https://ppxl.dev)** — project index and live status · `nginx` `Caddy`
+- **[Crispframe Studio](https://dev-crispframe.ppxl.dev)** — TYPO3 v14 agency theme review environment · `TYPO3` `PHP`
+- **[Modulo CMS](https://dev-modulo.ppxl.dev)** — modular CMS, full stack · `Laravel` `PostgreSQL` `Redis`
+- **[GoX CMS](https://dev-gox-cms.ppxl.dev)** — fast CMS with minimal JavaScript · `Go` `Fiber` `HTMX`
+
 <sub>Also: [HiCloudMP](https://github.com/PhantomPixelDev/HiCloudMP) (local/cloud music player, Python) · [WPress-Manager](https://github.com/PhantomPixelDev/WPress-Manager) (Vue + Go) · [Windows-VM-Optimization-Script](https://github.com/PhantomPixelDev/Windows-VM-Optimization-Script) (PowerShell)</sub>
 
 ### Tech
 
 `Python` `Go` `TypeScript` `JavaScript` `PHP` `SCSS/CSS` `Bash` `PowerShell`
 `PySide6/Qt` `React` `Vue` `Laravel` `Hugo` `HTMX` `Tailwind` `Playwright` `MCP`
-`Linux` `Docker` `Proxmox` `Redis` `Nginx` `Git` `GitHub Actions`
+`Linux` `Docker` `Proxmox` `Redis` `Nginx` `Caddy` `PostgreSQL` `Git` `GitHub Actions`
