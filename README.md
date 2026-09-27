@@ -13,11 +13,8 @@ Developer tooling, infrastructure and desktop apps. Oberhausen, DE.
 - **[gox_cms](https://github.com/PhantomPixelDev/gox_cms)** — fast CMS with minimal JavaScript · `Go` `Fiber` `HTMX` `Redis`
 
 ### Live on ppxl.dev
-
-One VPS, Caddy with automatic HTTPS, one Docker Compose stack per app — no public ports except 80/443.
-
-- **[ppxl.dev](https://ppxl.dev)** — project index and live status · `nginx` `Caddy`
-- **[Crispframe Studio](https://dev-crispframe.ppxl.dev)** — TYPO3 v14 agency theme review environment · `TYPO3` `PHP`
+- **[ppxl.dev](https://ppxl.dev)** — projects index and live status · `nginx` `Caddy`
+- **[Crispframe Studio](https://dev-crispframe.ppxl.dev)** — TYPO3 v13/14 agency theme review environment · `TYPO3` `PHP`
 - **[Modulo CMS](https://dev-modulo.ppxl.dev)** — modular CMS, full stack · `Laravel` `PostgreSQL` `Redis`
 - **[GoX CMS](https://dev-gox-cms.ppxl.dev)** — fast CMS with minimal JavaScript · `Go` `Fiber` `HTMX`
 
