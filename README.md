@@ -4,6 +4,7 @@ Developer tooling, infrastructure and desktop apps. Oberhausen, DE.
 
 ### Latest projects
 
+- **[crispframe](https://github.com/PhantomPixelDev/crispframe)** — TYPO3 v13/14 sitepackage and agency theme; bilingual, component-driven · [demo](https://dev-crispframe.ppxl.dev) · `TYPO3` `PHP` `Twig`
 - **[proxmox-monitor](https://github.com/PhantomPixelDev/proxmox-monitor)** — cross-platform system tray for Proxmox VE; least-privilege tokens, Nuitka builds · [screenshots](https://phantompixeldev.github.io/proxmox-monitor/) · `Python` `PySide6` `httpx`
 - **[hugo-theme-pico-corp](https://github.com/PhantomPixelDev/hugo-theme-pico-corp)** — corporate/agency Hugo theme on Pico CSS 2; composable sections, no build step · [demo](https://phantompixeldev.github.io/hugo-theme-pico-corp/) · `Hugo` `CSS`
 - **[hugo-theme-retrocss](https://github.com/PhantomPixelDev/hugo-theme-retrocss)** — Win9x-style Hugo theme; WCAG AA light/dark, RTL, client-side search · [demo](https://phantompixeldev.github.io/hugo-theme-retrocss/) · `Hugo` `CSS`
